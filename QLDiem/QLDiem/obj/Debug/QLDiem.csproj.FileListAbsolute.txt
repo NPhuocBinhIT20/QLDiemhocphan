@@ -1,0 +1,17 @@
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.AssemblyReference.cache
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.Properties.Resources.resources
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.GenerateResource.cache
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.CoreCompileInputs.cache
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\bin\Debug\QLDiem.exe.config
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\bin\Debug\QLDiem.exe
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\bin\Debug\QLDiem.pdb
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\bin\Debug\EntityFramework.dll
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\bin\Debug\EntityFramework.xml
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.CopyComplete
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.exe
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.pdb
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.FrmQLDiem.resources
+C:\Users\Tom Cu\source\repos\QLDiem\QLDiem\obj\Debug\QLDiem.FrmChiTietDiem.resources
